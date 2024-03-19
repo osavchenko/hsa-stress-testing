@@ -1,0 +1,1 @@
+http://127.0.0.1:8080/submit POST {"string_1": "some string value", "string_2": "another string value", "int": 42, "float": 100.0}
